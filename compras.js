@@ -12,6 +12,6 @@ function listaCompras (){
 }
 let nuevaLista = new listaCompras();
 nuevaLista.agregar("Manzana");
-nuevaLista.agregar("Manzana");
-nuevaLista.agregar("Manzana");
+nuevaLista.agregar("Banana");
+nuevaLista.agregar("Melocotón");
 nuevaLista.mostrar();
