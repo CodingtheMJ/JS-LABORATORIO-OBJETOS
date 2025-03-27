@@ -3,12 +3,12 @@ function termometro (){
     
     {this.grados = grados
         if (grados < 10){
-            console.log ("Hace frío!");
+            console.log ("¡Hace frío!");
         }
         else if (grados > 30){
-            console.log ("Hace calor!");}
+            console.log ("¡Hace calor!");}
          else
-         {console.log ("Temperatura Agradable")} 
+         {console.log ("¡Temperatura agradableee!")} 
 }}
 
 let termometro1 = new termometro ();
