@@ -11,6 +11,8 @@ function libro(titulo, autor){
         }
     }
 }
+
 let libro1 = new libro("Mil estrellas", "Juan");
+
 libro1.prestar()
 libro1.prestar()
