@@ -1,7 +1,7 @@
-****Descripción del Proyecto:
+✧ ˖ ꒰ ੭´ — — — — — — Descripción del Proyecto — — — — — — ✰⁺ಿೖ୭
 Este repositorio contiene una serie de ejercicios prácticos enfocados en el manejo de objetos en JavaScript. A través de estos ejercicios, he reforzado mis conocimientos en la creación, manipulación y comprensión de objetos, una parte fundamental en el desarrollo con JavaScript.
 
-*****Habilidades Puestas en Práctica
+︽︽︽︽︽︽ Habilidades Puestas en Práctica ︽︽︽︽︽︽︽
 - Creación de Objetos: Definición de objetos utilizando literales y constructores, estableciendo propiedades y métodos según las necesidades del ejercicio.
 
 - Acceso y Modificación de Propiedades: Uso de notación de punto y corchetes para acceder y modificar las propiedades de los objetos.
